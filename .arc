@@ -1,6 +1,9 @@
 @app
 wonder-jm8
 
+@aws
+region eu-north-1
+
 @static
 folder build
 
